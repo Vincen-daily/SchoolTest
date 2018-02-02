@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SchoolTest</string>
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+    <string name="userName">用户名：</string>
+    <string name="password">密码：</string>
+    <string name="studentId">学号:</string>
+    <string name="name">姓名:</string>
+    <string name="age">年龄：</string>
+    <string name="teacherEntity">老师:</string>
+    <string name="dialogTitle">话 题</string>
+    <string name="activity">活动：</string>
+    <string name="dialog_activity">话题：活动</string>
+    <string name="dialog_study">话题：学习情况</string>
+    <string name="query">查询</string>
+    <string name="update">修改</string>
+    <string name="delete">删除</string>
+    <string name="account">账号：</string>
+    <string name="insert">添加</string>
+</resources>

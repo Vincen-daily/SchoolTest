@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+
+    <TextView
+        android:id="@+id/teacherPage_tv_StudentId"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="学号"
+        android:textSize="20dp"
+        android:layout_weight="1"/>
+
+    <TextView
+        android:id="@+id/teacherPage_tv_StudentName"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="姓名"
+        android:textSize="20dp"
+        android:layout_weight="1"/>
+
+</LinearLayout>

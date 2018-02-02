@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+
+
+    <dbname value="School" />
+
+
+    <version value="6" />
+
+
+    <list>
+        <mapping class="com.example.school.dao.Student"></mapping>
+        <mapping class="com.example.school.dao.Teacher"></mapping>
+        <mapping class="com.example.school.dao.DialogTitle"/>
+        <mapping class="com.example.school.dao.DialogDetail"/>
+        <mapping class="com.example.school.dao.Parent"/>
+    </list>
+
+
+
+</litepal>
